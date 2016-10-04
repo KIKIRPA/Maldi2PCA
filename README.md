@@ -16,11 +16,13 @@ W. Fremout, S. Kuckova, M. Crhova, J. Sanyova, S. Saverwyns, R. Hynek, M. Kodice
 Python v2.x
 
 ## Usage
-
+```
 Usage: maldi2pca.py [options] INFILES
 
 Options:
+
   --version      show program's version number and exit
+  
   -h, --help     show this help message and exit
   --nolimits     do not set X range
   --low=LOW      lower limit (default: 900)
@@ -32,3 +34,4 @@ Options:
   --comma        comma as digital separator
   -o OUTFILE     output file
   -v, --verbose  be very verbose
+```
