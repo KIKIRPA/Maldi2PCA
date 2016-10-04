@@ -9,7 +9,8 @@ Maldi2PCA - Prepares Maldi data for PCA: reduce & normalize TAB-delimited data f
 This simple script was written to uniformise sets of MALDI-TOF-MS spectra (ascii format) of tryptic digests from proteïnaceaous binding media, and prepare the data for Principal Component Analysis (PCA) and other chemometrics analysis. Firstly, the mass spectrum can limited to a specific range (standard 900–2000Da). Secondly, to correct for different numbers of datapoints in different measurements and unavoidable small intermeasurement mass shifts, the number of datapoints is reduced to a single datapoint per Dalton. In doing so, the influence of misalignation on the PCA results will be minimal, since a misaligned peak will always coincide with the aligned mass of one of its isotopes. Finally, the data are normalised.
 
 For more information, please consult:
-W. Fremout, S. Kuckova, M. Crhova, J. Sanyova, S. Saverwyns, R. Hynek, M. Kodicek, P. Vandenabeele and L. Moens, “Classification of Protein Binders in Artist’s Paints by Matrix‐assisted Laser Desorption/ionisation Time‐of‐flight Mass Spectrometry: An Evaluation of Principal Component Analysis (PCA) and Soft Independent Modelling of Class Analogy (SIMCA).” Rapid Communications in Mass Spectrometry 25, no. 11 (June 15, 2011): 1631–1640. doi:10.1002/rcm.5027.
+
+*W. Fremout, S. Kuckova, M. Crhova, J. Sanyova, S. Saverwyns, R. Hynek, M. Kodicek, P. Vandenabeele and L. Moens, “Classification of Protein Binders in Artist’s Paints by Matrix‐assisted Laser Desorption/ionisation Time‐of‐flight Mass Spectrometry: An Evaluation of Principal Component Analysis (PCA) and Soft Independent Modelling of Class Analogy (SIMCA).” Rapid Communications in Mass Spectrometry 25, no. 11 (June 15, 2011): 1631–1640. [doi:10.1002/rcm.5027](dx.doi.org/10.1002/rcm.5027).*
 
 ## Prerequisites
 
