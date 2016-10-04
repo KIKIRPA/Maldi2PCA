@@ -10,7 +10,7 @@ This simple script was written to uniformise sets of MALDI-TOF-MS spectra (ascii
 
 For more information, please consult:
 
-*W. Fremout, S. Kuckova, M. Crhova, J. Sanyova, S. Saverwyns, R. Hynek, M. Kodicek, P. Vandenabeele and L. Moens, “Classification of Protein Binders in Artist’s Paints by Matrix‐assisted Laser Desorption/ionisation Time‐of‐flight Mass Spectrometry: An Evaluation of Principal Component Analysis (PCA) and Soft Independent Modelling of Class Analogy (SIMCA).” Rapid Communications in Mass Spectrometry 25, no. 11 (June 15, 2011): 1631–1640. [doi:10.1002/rcm.5027](dx.doi.org/10.1002/rcm.5027).*
+*W. Fremout, S. Kuckova, M. Crhova, J. Sanyova, S. Saverwyns, R. Hynek, M. Kodicek, P. Vandenabeele and L. Moens, “Classification of Protein Binders in Artist’s Paints by Matrix‐assisted Laser Desorption/ionisation Time‐of‐flight Mass Spectrometry: An Evaluation of Principal Component Analysis (PCA) and Soft Independent Modelling of Class Analogy (SIMCA).” Rapid Communications in Mass Spectrometry 25, no. 11 (June 15, 2011): 1631–1640. [doi:10.1002/rcm.5027](http://dx.doi.org/10.1002/rcm.5027).*
 
 ## Prerequisites
 
